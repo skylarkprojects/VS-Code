@@ -1,0 +1,49 @@
+
+
+
+#Ticket for 
+#Run sheet - change materials, and estimations
+
+# Summary of integration (API Documentation)
+# dependencies and pre-integration requirements and considerations
+# - Page structure and embedded iframe (screenshots)
+# - migration
+# - Data schema
+
+# Code base for integration
+
+# - create payment use case
+# - create refund use case
+# - create partial refund use case
+
+
+
+
+#Refunds integration session with Greg
+#- and documentation
+
+# map idempotency
+
+# test cases for payment gateway
+
+# test cases for SAP integration
+
+# slides for ServiceNow presentation
+#- understand flow requiremetns 
+#- work through flows
+#- Payment pattern
+#- Data schema
+
+# document refunds business process for fishing
+
+# OpenBanking slides
+#- Intro
+#- What is OpenBanking
+#- Problem/oppty
+#- Rationale & need
+#- Market options & procurement standards
+#- Recommendations/rationale
+
+
+Request to invoice process
+
